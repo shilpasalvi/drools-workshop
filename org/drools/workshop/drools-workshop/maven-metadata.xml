@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.drools.workshop</groupId>
+  <artifactId>drools-workshop</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20221009090206</lastUpdated>
+  </versioning>
+</metadata>
